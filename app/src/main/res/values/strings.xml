@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="socket_time_out">Server cannot be reached</string>
+</resources>
